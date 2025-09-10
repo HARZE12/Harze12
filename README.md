@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://ar.inspiredpencil.com/pictures-2023/hacking-gif">
-    <img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif" alt="MasterHead" width="100%">
+    <img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif" alt="MasterHead" width="400">
   </a>
 </p>
 
