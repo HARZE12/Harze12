@@ -1,4 +1,4 @@
-<h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
+<h3 align="left">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxoYWNraW5nfGVufDB8fHx8MTc1NzUxMzQ1N3ww&ixlib=rb-4.1.0&q=85">
 
