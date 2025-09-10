@@ -1,5 +1,5 @@
 
-<p align="center"><img alt="coding" width="400" src="[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif)](https://ar.inspiredpencil.com/pictures-2023/hacking-gif)"></p>
+[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif)](https://ar.inspiredpencil.com/pictures-2023/hacking-gif)
 
 
 <h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
