@@ -11,12 +11,7 @@
   <a href="https://harze12.github.io/"><b>Click <u>Here</u> For More About Me!</b></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacker-0B0E12?style=for-the-badge&labelColor=0B0E12&color=2F81F7" alt="Ethical Hacker" />
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-111217?style=for-the-badge&labelColor=111217&color=E83B2E&logo=comptia&logoColor=white" alt="Security+" />
-  <img src="https://img.shields.io/badge/CEH-0B0E12?style=for-the-badge&labelColor=0B0E12&color=8B949E" alt="CEH" />
-  <img src="https://img.shields.io/badge/OSCP%20In%20Progress-0B0E12?style=for-the-badge&labelColor=0B0E12&color=8957E5" alt="OSCP In Progress" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harze12&label=Profile%20views&color=0e75b6&style=flat" alt="harze12" />
