@@ -1,14 +1,9 @@
-<h1>
 <img align="center" alt="coding" width="400" src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxoYWNraW5nfGVufDB8fHx8MTc1NzUxMzQ1N3ww&ixlib=rb-4.1.0&q=85">
-</h1>
+
 <h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
 
 <p align="center">
   <a href="https://harze12.github.io/"><b>Click <u>Here</u> For More About Me!</b></a>
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?q=80&w=1200&auto=format&fit=crop" alt="Hacker Illustration" width="480">
 </p>
 
 <p align="center">
