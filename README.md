@@ -1,6 +1,5 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif)](https://ar.inspiredpencil.com/pictures-2023/hacking-gif)
 
-<p align="center"><img alt="coding" width="400" src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxoYWNraW5nfGVufDB8fHx8MTc1NzUxMzQ1N3ww&ixlib=rb-4.1.0&q=85"></p>
+<p align="center"><img alt="coding" width="400" src="[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif)](https://ar.inspiredpencil.com/pictures-2023/hacking-gif)"></p>
 
 
 <h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
