@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harze12</h1>
 <h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
 
-<img align="right" alt="coding" width="400" src="ttps://images.unsplash.com/photo-1563206767-5b18f218e8de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxoYWNraW5nfGVufDB8fHx8MTc1NzUxMzQ1N3ww&ixlib=rb-4.1.0&q=85">
+<img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxoYWNraW5nfGVufDB8fHx8MTc1NzUxMzQ1N3ww&ixlib=rb-4.1.0&q=85">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harze12&label=Profile%20views&color=0e75b6&style=flat" alt="harze12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harze12" alt="harze12" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Hacking Projects**
 
