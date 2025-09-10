@@ -1,26 +1,81 @@
-<h3 align="left">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
+<h1 align="center">Hi 👋, I'm harze12</h1>
+<h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1563206767-5b18f218e8de?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxoYWNraW5nfGVufDB8fHx8MTc1NzUxMzQ1N3ww&ixlib=rb-4.1.0&q=85">
+<p align="center">
+  <a href="https://harze12.github.io/"><b>Click <u>Here</u> For More About Me!</b></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harze12&label=Profile%20views&color=0e75b6&style=flat" alt="harze12" /> </p>
+<p align="center">
+  <!-- Replace with ./assets/hacker-hero.png if you add a local file -->
+  <img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?q=80&w=1200&auto=format&fit=crop" alt="Hacker Illustration" width="480">
+</p>
 
-- 👯 I’m looking to collaborate on **Hacking Projects**
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-0B0E12?style=for-the-badge&labelColor=0B0E12&color=2F81F7" alt="Ethical Hacker" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-111217?style=for-the-badge&labelColor=111217&color=E83B2E&logo=comptia&logoColor=white" alt="Security+" />
+  <img src="https://img.shields.io/badge/CEH-0B0E12?style=for-the-badge&labelColor=0B0E12&color=8B949E" alt="CEH" />
+  <img src="https://img.shields.io/badge/OSCP%20In%20Progress-0B0E12?style=for-the-badge&labelColor=0B0E12&color=8957E5" alt="OSCP In Progress" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://harze12.github.io/](https://harze12.github.io/)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=harze12&label=Profile%20views&color=0e75b6&style=flat" alt="harze12" />
+</p>
 
-- 📝 I regularly write articles on [https://medium.com/@anonymousharze](https://medium.com/@anonymousharze)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harze12&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="trophies" /></a>
+</p>
 
-- 💬 Ask me about **Hacking**
+- 👯 I’m looking to collaborate on **Hacking Projects**  
+- 👨‍💻 All of my projects are available at **https://harze12.github.io/**  
+- 📝 I regularly write articles on **https://medium.com/@anonymousharze**  
+- 💬 Ask me about **Hacking**  
+- 📫 Reach me: **anonymousharze@gmail.com**
 
-- 📫 How to reach me **anonymousharze@gmail.com**
+---
+
+<!-- ===== 3-Column Stats Area ===== -->
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <sub><b>GitHub Stats</b></sub><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harze12&theme=tokyonight" alt="stats card" />
+    </td>
+    <td align="center" width="33%">
+      <sub><b>Current / Longest Streak</b></sub><br/>
+      <img src="https://streak-stats.demolab.com?user=harze12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+    </td>
+    <td align="center" width="33%">
+      <sub><b>Most Used Languages</b></sub><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harze12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">Mostly Work With</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" width="40" height="40"/>
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://harze12.github.io/" target="_blank">Website</a> • 
+  <a href="https://medium.com/@anonymousharze" target="_blank">Medium</a> • 
+  <a href="mailto:anonymousharze@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harze12&show_icons=true&locale=en&layout=compact" alt="harze12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harze12&" alt="harze12" /></p>
+<!-- Optional extra card:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harze12&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+</p>
+-->
