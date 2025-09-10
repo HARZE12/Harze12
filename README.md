@@ -1,6 +1,9 @@
 
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif)](https://ar.inspiredpencil.com/pictures-2023/hacking-gif)
-
+<p align="center">
+  <a href="https://ar.inspiredpencil.com/pictures-2023/hacking-gif">
+    <img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif" alt="MasterHead" width="100%">
+  </a>
+</p>
 
 <h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
 
