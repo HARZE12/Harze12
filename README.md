@@ -1,9 +1,10 @@
 
 <p align="center">
-  <a href="https://github.com/Harze12/hacker.gif">
-    <img src="https://raw.githubusercontent.com/Harze12/Harze12/main/assets/hacker.gif" alt="MasterHead" width="400">
+  <a href="https://github.com/Harze12/Harze12">
+    <img src="hacker.gif" alt="MasterHead" width="400">
   </a>
 </p>
+
 
 
 
