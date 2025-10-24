@@ -28,7 +28,7 @@
 - 👨‍💻 All of my projects are available at **https://harze12.github.io/**  
 - 📝 I regularly write articles on **https://medium.com/@anonymousharze**  
 - 💬 Ask me about **Hacking**  
-- 📫 Reach me: **anonymousharze@gmail.com**
+- 📫 Reach me: **harze12@tutamail.com**
 
 ---
 
