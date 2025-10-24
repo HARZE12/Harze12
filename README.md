@@ -79,7 +79,7 @@
 <p align="left">
   <a href="https://harze12.github.io/" target="_blank">Website</a> • 
   <a href="https://medium.com/@anonymousharze" target="_blank">Medium</a> • 
-  <a href="mailto:anonymousharze@gmail.com">Email</a>
+  <a href="mailto:harze12@tutamail.com">Email</a>
 </p>
 
 <!-- Optional extra card:
