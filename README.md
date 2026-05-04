@@ -25,7 +25,7 @@
 </p>
 
 - 👯 I’m looking to collaborate on **Hacking Projects**  
-- 👨‍💻 All of my projects are available at **https://harze12.github.io/**  
+- 👨‍💻 All of my projects are available at **https://harze12.com/**  
 - 📝 I regularly write articles on **https://medium.com/@anonymousharze**  
 - 💬 Ask me about **Hacking**  
 - 📫 Reach me: **harze12@tutamail.com**
@@ -77,7 +77,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://harze12.github.io/" target="_blank">Website</a> • 
+  <a href="https://harze12.com/" target="_blank">Website</a> • 
   <a href="https://medium.com/@anonymousharze" target="_blank">Medium</a> • 
   <a href="mailto:harze12@tutamail.com">Email</a>
 </p>
