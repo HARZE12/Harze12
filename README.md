@@ -11,7 +11,7 @@
 <h3 align="center">Cybersecurity enthusiast and security researcher passionate about ethical hacking, vulnerability research, and building security tools.</h3>
 
 <p align="center">
-  <a href="https://harze12.github.io/"><b>Click <u>Here</u> For More About Me!</b></a>
+  <a href="https://harze12.com/"><b>Click <u>Here</u> For More About Me!</b></a>
 </p>
 
 
